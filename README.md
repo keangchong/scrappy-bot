@@ -8,8 +8,10 @@ Music capabilities -
 	music playback 
 	music skip
 	plays individual songs and playlists
+
 Movement - 
 	bot can be called to different text channels
+
 Info display - 
 	!games - displays how many people are playing what game (and how many are not playing anything at all!)
 	!music - displays what song is currently playing
@@ -19,9 +21,11 @@ Info display -
 	!events - posts future events
 	!hootyhoo - posts different pictures of ksu and owls
 	!lmgtfy - posts a lmgtfy link of w/e http://lmgtfy.com/?q=
+
 Moderator capabilities - 
 	auto-delete porn - posts a picture of apple pie
 	auto-delete anything Tyus posts
+
 Fun stuff - 
 	A.D.M.I.N. of the day role - random user gets this role everyday fake admin role
 	!join -(channel) - have a particular role assigned ex. Overwatch
